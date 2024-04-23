@@ -1,0 +1,13 @@
+h1{color:blueviolet}
+body {
+    background-color: #5fff03;
+color:rgb(192, 32, 179); 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-decoration:dotted ;
+text-decoration-line: overline;
+text-align:center;
+}
+
+header {
+    border-bottom: 1px solid rgb(34, 68, 45);
+}
